@@ -1,0 +1,5 @@
+{
+  "blenderpath" : "YOUR BLENDER PATH HERE",
+  "ffmpegpath" : "YOUR FFMPEG PATH HERE",
+  "smbfilehost" : "smb://YOUR SMB IP/HOSTNAME HERE"
+}
