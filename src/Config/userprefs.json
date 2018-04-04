@@ -1,3 +1,9 @@
 {
-  'blenderpath' : ''
+  "blenderpath" : "/usr/bin/blender",
+  "ffmpegpath" : "/usr/bin/ffmpeg",
+  "smbservername" : "READYSHARE/USB_Storage",
+  "smbusername" : "",
+  "smbpassword" : "",
+  "smbip" : "192.168.1.1"
+
 }
